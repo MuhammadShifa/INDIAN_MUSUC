@@ -50,7 +50,7 @@
     "BG_IMAGE": {
       "description": "BG image of bot (Use transparent one) [IGNORE].",
       "required": false,
-      "value": "https://telegra.ph/file/9b13ea3ce046a1a5c8098.png"
+      "value": "https://telegra.ph/file/09364f8d017b072994093.jpg"
     },     
     "UPDATES_CHANNEL": {
       "description": "Updates Channel without @ [Leave this if you don't have one].",
@@ -77,7 +77,7 @@
     "DURATION_LIMIT": {
       "description": "Max audio duration limit for downloads (minutes).",
       "required": true,
-      "value": "15"
+      "value": "300"
     }
   }
 }
